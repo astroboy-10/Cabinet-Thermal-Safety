@@ -12,11 +12,11 @@ The system ensures safe operation of a 400W enclosure heater using:
 
 ## System Architecture
 
-- TC1 (RS 1241057)** – Heating controller (NO)
-- TC2 (RS 1241057)** – Safety controller (NC)
-- TS1 (RS 222-8229)** – Thermal cut-out (70°C NC)
-- KM1 (RS 277-8515)** – Contactor (230V coil)
-- H1 (RS 103-314)** – Pfannenberg heater (400W)
+- TC1 (RS 1241057) – Heating controller (NO)
+- TC2 (RS 1241057) – Safety controller (NC)
+- TS1 (RS 222-8229) – Thermal cut-out (70°C NC)
+- KM1 (RS 277-8515) – Contactor (230V coil)
+- H1 (RS 103-314) – Pfannenberg heater (400W)
 
 ## Components
 
