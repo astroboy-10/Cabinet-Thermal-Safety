@@ -1,0 +1,14 @@
+# Bill of Materials
+
+| Item | Description | RS Part Number | Link |
+|------|------------|---------------|------|
+| TC1 / TC2 | Temperature Controller | 1241057 | https://uk.rs-online.com/web/p/temperature-controllers/1241057 |
+| TS1 | Thermal Cut-out (70°C NC) | 222-8229 | https://uk.rs-online.com/web/p/thermal-cutouts/2228229 |
+| KM1 | Contactor 230V Coil | 277-8515 | https://uk.rs-online.com/web/p/contactors/2778515 |
+| H1 | Enclosure Heater 400W | 103-314 | https://uk.rs-online.com/web/p/enclosure-heaters/0103314 |
+
+## Notes
+
+- All components are DIN rail mountable
+- Ensure proper enclosure ventilation
+- Use appropriate cable ratings (≥ 1.5 mm² for heater circuit)
