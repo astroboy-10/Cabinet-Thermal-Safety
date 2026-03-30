@@ -1,0 +1,24 @@
+# Wiring Notes
+
+## Control Circuit
+
+L → TC1 (NO) → TC2 (NC) → TS1 (NC) → KM1 (A1)
+N → KM1 (A2)
+
+## Power Circuit
+
+L → KM1 (COM)
+KM1 (NO) → Heater
+N → Heater
+
+## Key Design Rules
+
+- Safety devices must be NC
+- All safety devices in series
+- Contactor isolates high voltage from control circuit
+
+## Safety Checks
+
+- Verify continuity of NC chain
+- Test thermal cut-out manually
+- Confirm contactor drops out on fault
