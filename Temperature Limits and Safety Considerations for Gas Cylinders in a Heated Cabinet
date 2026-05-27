@@ -1,0 +1,209 @@
+Temperature Limits and Safety Considerations for Gas
+Cylinders in a Heated Cabinet (A)- D2.036
+Gaurav
+May 27, 2026
+1 Introduction
+This document summarises the temperature limits, pressure behaviour, and safety considerations
+for several compressed gas and refrigerant cylinders intended for storage inside a heated cabinet.
+The purpose of this report is to assist with engineering and safety planning for cabinet heating
+systems where gas cylinders may be exposed to elevated temperatures.
+2 General Safety Guidance
+For nearly all industrial gas and refrigerant cylinders, the commonly accepted maximum external
+cylinder temperature is:
+Tmax ≈ 50–52 ◦C
+This limit is widely used by industrial gas suppliers and refrigerant manufacturers.
+The reasons for this limit include:
+• Rapid increase of internal pressure with temperature.
+• Possible activation of pressure relief devices.
+• Risk of cylinder rupture if severely overheated.
+• Increased fire and explosion hazards for flammable gases.
+• Increased toxicity risks from decomposition products in refrigerants.
+2.1 Important Cabinet Design Recommendations
+• Cabinet air temperature should normally remain below 45◦C to maintain engineering
+margin.
+• Local heater hot-spots must not directly irradiate cylinder walls.
+• Forced-air circulation is strongly recommended.
+• Independent over-temperature protection should be installed.
+• Continuous temperature monitoring is recommended.
+• Ventilation is required for all flammable gases and refrigerants.
+1
+3 Cylinder Summary Table
+Gas / Refrigerant UN Number Storage Type Recommended
+Max Temp
+Main Hazards
+R134a
+SF6
+Neon
+Isobutane
+Krypton
+R1234yf
+R1234ze
+R1233zd(E)
+UN3159
+UN1080
+UN1065
+UN1969
+UN1056
+UN3161
+UN3163
+UN3163
+Liquefied
+refrigerant
+Compressed
+gas
+Compressed
+gas
+Liquefied
+flammable gas
+Compressed
+gas
+Liquefied
+refrigerant
+Liquefied
+refrigerant
+Low-pressure
+refrigerant
+50–52 ◦C
+50–52 ◦C
+50–52 ◦C
+50 ◦C
+50–52 ◦C
+50–52 ◦C
+50–52 ◦C
+50–52 ◦C
+Pressure rise, venting,
+HF decomposition
+products
+High pressure,
+asphyxiation, toxic arc
+decomposition products
+High stored energy,
+asphyxiation
+Fire, explosion, vent
+ignition
+High stored energy,
+asphyxiation
+Mild flammability, HF
+decomposition
+Mild flammability,
+pressure rise
+Decomposition
+products, pressure rise
+4 Detailed Gas Information
+4.1 R134a (UN3159)
+Chemical name:
+1,1,1,2-Tetrafluoroethane
+R134a is a non-flammable HFC refrigerant stored as a liquefied gas.
+Approximate saturation pressures:
+• 6bar at 20◦C
+• 13bar at 50◦C
+Primary risks:
+• Rapid pressure increase during heating.
+• Pressure relief valve activation.
+• Toxic hydrogen fluoride generation during fire decomposition.
+4.2 SF6 (UN1080)
+Sulfur hexafluoride is a dense inert insulating gas stored at high pressure.
+Approximate pressures:
+• 20.7bar at 20◦C
+2
+• Approximately 35bar to 40bar near 50◦C
+Primary risks:
+• High-pressure stored energy.
+• Oxygen displacement in confined spaces.
+• Toxic decomposition products after electrical arcing.
+4.3 Neon (UN1065)
+Neon is an inert noble gas stored as a compressed gas.
+Typical cylinder conditions:
+• Fill pressure typically 200bar to 230bar
+• Hydrostatic test pressure commonly above 300bar
+Estimated pressure increase:
+• Approximately 200bar at 15◦C
+• Approximately 225bar at 50◦C
+Primary risks:
+• Large stored mechanical energy.
+• High-velocity gas release if damaged.
+• Asphyxiation risk.
+4.4 Isobutane (UN1969)
+Isobutane is a liquefied flammable hydrocarbon gas.
+Approximate vapour pressures:
+• 3.1bar at 20◦C
+• 5.3bar at 40◦C
+• 6.9bar at 50◦C
+Primary risks:
+• Fire and explosion.
+• Flammable vent release.
+• BLEVE-type failure during severe overheating.
+Special precautions:
+• Ventilation is mandatory.
+• Ignition sources must be eliminated.
+• Heater elements must be isolated from leaked gas.
+3
+4.5 Krypton (UN1056)
+Krypton is an inert noble gas stored at high pressure.
+Typical operating conditions:
+• Typical fill pressure: 200bar to 230bar
+• Typical hydrostatic test pressure: above 300bar
+Estimated pressure increase:
+• Approximately 200bar at 15◦C
+• Approximately 225bar at 50◦C
+Primary risks:
+• Stored mechanical energy.
+• Asphyxiation hazard.
+4.6 R1234yf (UN3161)
+Chemical name:
+2,3,3,3-Tetrafluoropropene
+R1234yf is classified as an A2L mildly flammable refrigerant.
+Approximate pressures:
+• 6.7bar at 20◦C
+• 13bar to 14bar at 50◦C
+Primary risks:
+• Mild flammability.
+• Pressure rise during heating.
+• Hydrogen fluoride production in fire conditions.
+4.7 R1234ze (UN3163)
+R1234ze is an A2L mildly flammable low-pressure refrigerant.
+Approximate pressures:
+• 3.5bar at 20◦C
+• Approximately 7bar at 50◦C
+Primary risks:
+• Mild flammability.
+• Pressure increase during heating.
+4
+4.8 R1233zd(E) (UN3163)
+Chemical name:
+trans-1-chloro-3,3,3-trifluoropropene
+R1233zd(E) is a low-pressure refrigerant classified as A1 (non-flammable under standard
+conditions).
+Approximate pressures:
+• Approximately 0.8bar(g) at 20◦C
+• Approximately 2bar(g) at 50◦C
+Primary risks:
+• Toxic decomposition products during fire.
+• Pressure rise if overheated.
+5 Engineering Recommendations for Heated Cabinets
+5.1 Recommended Maximum Cabinet Temperature
+For mixed gas storage, a conservative cabinet air temperature limit is:
+Tcabinet ≤ 45 ◦C
+This provides margin below the standard cylinder limit of approximately 50◦C.
+5.2 Recommended Protection Features
+• Dual independent temperature sensors.
+• Over-temperature shutdown.
+• Forced-air circulation fans.
+• Thermal insulation between heaters and cylinders.
+• Flammable gas detection for isobutane and A2L refrigerants.
+• Ventilation or pressure relief vents.
+5.3 Heater Design Considerations
+The heater should:
+• Avoid direct radiant heating of cylinders.
+• Maintain uniform air temperature.
+• Use low surface temperature elements where possible.
+• Prevent local cylinder wall temperatures from exceeding safe limits.
+5
+6 Conclusion
+All listed cylinders should be treated as pressure vessels with significant stored energy. Even
+inert gases become hazardous when overheated due to pressure rise.
+For engineering safety:
+• Maintain cabinet temperatures below 45◦C.
+• Never exceed cylinder wall temperatures of 50◦C to 52◦C.
+• Provide ventilation, monitoring, and over-temperature protection.
+• Apply additional precautions for flammable gases and refrigerants.
